@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Index
-  site_tagline: A minimal, fixed sidebar grid portfolio Jekyll theme.
+  site_title: Architecture of San Francisco
+  site_tagline: Like Humans of New York but for Buildings of San Francisco
   favicon_image: /images/favicon.png
 
 header_settings:
